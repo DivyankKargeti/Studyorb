@@ -5,6 +5,6 @@
 
 ## Screenshots
 
-![SS1](SS1.jpg)
+![SS1](SS1.png)
 
-![SS1](SS2.jpg)
+![SS1](SS2.png)
