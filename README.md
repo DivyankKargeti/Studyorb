@@ -1,5 +1,5 @@
 # StudyOrb Dashboard
-### Author: Divyank Kargeti
+#### Author: Divyank Kargeti
 
 ### This project is developed using the following technologies: HTML , CSS and Vanilla JavaScript.
 
